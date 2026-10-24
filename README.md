@@ -293,25 +293,5 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 <br/>
 
-## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-<br/>
-
-## 🙏 Acknowledgements
-
-- [LangChain](https://langchain.com) & [LangGraph](https://langchain-ai.github.io/langgraph/) for the agentic orchestration framework
-- [Google Gemini](https://ai.google.dev) for the powerful language model
-- [ChromaDB](https://www.trychroma.com) for the vector store
-- [Tavily](https://tavily.com) for real-time web search
-
----
-
-<div align="center">
-
-Made with ❤️ and a lot of research papers
-
-⭐ **Star this repo if you find it useful!** ⭐
-
-</div>
