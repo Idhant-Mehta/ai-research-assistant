@@ -152,7 +152,7 @@ User Query
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-research-assistant.git
+git clone https://github.com/Idhant-Mehta/ai-research-assistant.git
 cd ai-research-assistant
 ```
 
